@@ -63,4 +63,3 @@ public class LogicPositivizer {
                         .resolve(Paths.get("output")));
     }
 }
-// testing jenkins by editing
